@@ -42,7 +42,7 @@ install.packages("DT")
 ```
 
 #### Get and run the source code
-Download the source of the latest release from [https://github.com/MikeAxtell/StepOnePlus](https://github.com/MikeAxtell/StepOnePlus). Unpack the Zip file, open the StepOnePlus directory, and click on `App.R`. This should open up the source code in RStudio. The app can then be run locally by clicking the `Run App` button in RStudio.
+Download the source of the latest release from [https://github.com/MikeAxtell/StepOnePlus/releases/latest](https://github.com/MikeAxtell/StepOnePlus/releases/latest). Unpack the Zip file, open the StepOnePlus directory, and click on `App.R`. This should open up the source code in RStudio. The app can then be run locally by clicking the `Run App` button in RStudio.
 
 
 # Setup
